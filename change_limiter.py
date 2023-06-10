@@ -8,5 +8,5 @@ def change_limiter(my_sentence):
 if __name__ == '__main__':
     input_sentences = ["This is great day", "meeting is boring", "Awesome !!!"]
     for input_element in input_sentences:
-        return_element = change_limiter(input_element)
-        print(return_element)
+        RETURN_ELEMENT = change_limiter(input_element)
+        print(RETURN_ELEMENT)
