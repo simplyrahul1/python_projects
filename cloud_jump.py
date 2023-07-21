@@ -1,6 +1,7 @@
 '''
 0 0 1 0 0 1 0
 '''
+# Author ; Rahul udayshankar Sinha
 
 def jump_cloud(input_num, input_string):
     my_list = []
